@@ -215,14 +215,16 @@ This indicates that the model explains a significant portion of the variation in
 
 ### Streamlit Application
 
+![Homepage](images/homepage.png)
+
 
 ### Correlation Heatmap
 
-(Add heatmap screenshot here)
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ### Feature Importance
 
-(Add feature importance screenshot here)
+![Feature Importance](images/feature_importance.png)
 
 ---
 
