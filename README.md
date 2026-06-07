@@ -220,7 +220,8 @@ This indicates that the model explains a significant portion of the variation in
 
 ### Correlation Heatmap
 
-images/Corrheatmap.png
+![Correlation heatmap](images/corrheatmap.png)
+
 
 ### Feature Importance
 
